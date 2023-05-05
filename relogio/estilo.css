@@ -1,0 +1,25 @@
+body{
+    font: normal 20pt arial;/*FONTE DO TEXTO*/
+    background-color: royalblue;/*COR DE FUNDO DA PAGINA*/
+    color: white;/*COR DO TEXTO*/
+}
+header{
+    text-align: center;/*ALINHA O POSICIONAMENTO DO TEXTO*/
+}
+section{
+    background-color: white;/*COR DE FUNDO DA SECTION*/
+    color: black;/*COR DO TEXTO DENTRO DA SECTION*/
+    border-radius: 10px;/*RAIO DA BORDA*/
+    padding: 15px;/*TAMANHO DA SECTION*/
+    width: 500px;/*TAMANHO HORIZONTAL DA SECTION*/
+    margin: auto;/*PARA DEIXAR AUTOMATICAMENTE DO CENTRO DA TELA(MARGEM)*/
+    box-shadow: 5px 5px 10px black;/*SOMBRA DA SECTION*/
+}
+footer{
+    text-align: center;/*ALINHAMENTO DO TEXTO DO FOOTER*/
+    font-style: italic;/*ESTILISAÇÃO DO TEXTO DENTRO DO FOOTER*/
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
